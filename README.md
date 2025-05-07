@@ -1,4 +1,6 @@
-# **👋 Hi, I'm Yaswanth!**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Yaswanth!" alt="Typing SVG" />
+</p>
 🚀 **Full Stack Developer | Problem Solver | Tech Enthusiast**
 
 I specialize in building scalable, high-performance web applications using modern technologies. Passionate about **MERN stack**, **cloud computing**, and **AI-driven applications**, I love solving real-world problems through technology and open-source contributions.
