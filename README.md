@@ -87,7 +87,6 @@ I specialize in building scalable, high-performance web applications using moder
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Framer_Motion-E100FF?style=for-the-badge&logo=framer&logoColor=white"/></td>
   </tr>
 </table>
@@ -114,17 +113,20 @@ I specialize in building scalable, high-performance web applications using moder
 
 ## 🌍 **Let's Connect**
 
-<p align="center">
-  <a href="https://linkedin.com/in/yaswanth-vijjapu-2572a7291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://linkedin.com/in/yaswanth-vijjapu-2572a7291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:yaswanthvijjapu799@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+  <a href="https://github.com/Yaswanthvijjapu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
