@@ -30,9 +30,12 @@ I specialize in building scalable, high-performance web applications using moder
 ## **🚀 Featured Projects**
 
 | 🔥 Project | 📝 Description | 🛠️ Tech Stack |
-|------------|--------------|---------------|
+|------------|----------------|---------------|
 | 🌾 **FarmDirect** | A platform connecting farmers directly with consumers for fresh produce. | MERN Stack |
 | 🍽️ **Restaurant Finder** | Location-based restaurant discovery and filtering. | MERN Stack + Geolocation API |
+| 💾 **Coded Pad** | Store and share code snippets using unique IDs for quick access. | MERN Stack + CodeMirror |
+| 🤖 **AI Code Reviewer** | Get instant AI-powered reviews and suggestions on your code. | React + OpenAI API |
+| 📝 **Formify** | Create and share dynamic forms, and export responses as PDF/Excel. | MERN Stack + File Export Libraries |
 
 🔗 **[Explore all my projects](#)**  
 
@@ -80,4 +83,4 @@ I specialize in building scalable, high-performance web applications using moder
 
 ---
 
-<p align="center"><i>💡 "Passionate about crafting solutions, innovating with technology, and making an impact—one project at a time!" 🚀</i></p>
+<p align="center"><i>💡 "Passionate about crafting solutions, innovating with technology, and making an impact—one project at a time!" 🚀</i></p> 
