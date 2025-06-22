@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&weight=700&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Yaswanth!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Yaswanthvijjapu/count.svg" alt="Profile Views" />
+</p>
+
 🚀 **Full Stack Developer | Problem Solver | Tech Enthusiast**
 
 I specialize in building scalable, high-performance web applications using modern technologies. Passionate about **MERN stack**, **cloud computing**, and **AI-driven applications**, I love solving real-world problems through technology and open-source contributions.
@@ -104,9 +108,9 @@ I specialize in building scalable, high-performance web applications using moder
  
 ## **📊 GitHub Stats**
 
-![Yaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaswanthvijjapu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthvijjapu&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yaswanthvijjapu&theme=radical)
+![Yaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaswanthvijjapu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthvijjapu&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yaswanthvijjapu&theme=radical)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yaswanthvijjapu&theme=radical)
 
 ---  
@@ -130,4 +134,4 @@ I specialize in building scalable, high-performance web applications using moder
 
 ---
 
-<p align="center"><i>💡 "Passionate about crafting solutions, innovating with technology, and making an impact—one project at a time!" 🚀</i></p> 
+<p align="center"><i>💡 "Passionate about crafting solutions, innovating with technology, and making an impact—one project at a time!" 🚀</i></p>
