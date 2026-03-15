@@ -128,6 +128,10 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Yaswanthvijjapu/Yaswanthvijjapu/blob/output/github-snake-dark.svg)
+
 ## 📊 My GitHub Stats
 
 <p align="center">
