@@ -128,9 +128,8 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Yaswanthvijjapu/Yaswanthvijjapu/blob/output/github-snake-dark.svg)
+## 🐍 Contribution 
+![pacman](https://github.com/Yaswanthvijjapu/Yaswanthvijjapu/blob/output/pacman-contribution-graph.svg)
 
 ## 📊 My GitHub Stats
 
